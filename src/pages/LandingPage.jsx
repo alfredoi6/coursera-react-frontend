@@ -10,7 +10,7 @@ const LandingPage = () => {
   return (
     <div className="landing-page">
       <div className="overlay">
-        <h2>Green Haven Presents...</h2>
+        <h2>Orange County Plant Emporium Presents...</h2>
         <h1>Indoor Plants</h1>
         <p>
           Shop the freshest indoor plant collection, including Dracaena, Ficus, Sansevieria, 
