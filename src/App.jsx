@@ -5,8 +5,8 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
 import ProductListingPage from './pages/ProductListingPage';
 import Header from './components/Header';
-import ShoppingCartPage from './components/Cart';
-import CheckoutPage from './components/Checkout'; 
+import ShoppingCartPage from './pages/ShoppingCartPage';
+
 
 
 function App() {

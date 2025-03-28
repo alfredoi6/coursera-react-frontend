@@ -21,11 +21,11 @@
 - [X] **Navigation between pages** – 2 pts  
 
 ## Shopping Cart Page – 23 points
-- [ ] **Total number of plants in cart** – 2 pts  
-- [ ] **Total cost of items** – 2 pts  
-- [ ] **Each plant: thumbnail, name, price** – 6 pts  
-- [ ] **Increase button (adds 1, updates totals)** – 4 pts  
-- [ ] **Decrease button (removes 1, updates totals)** – 4 pts  
-- [ ] **Delete button (removes item)** – 2 pts  
-- [ ] **Checkout button with “Coming Soon” text** – 1 pt  
-- [ ] **Continue Shopping button (back to product page)** – 2 pts  
+- [X] **Total number of plants in cart** – 2 pts  
+- [X] **Total cost of items** – 2 pts  
+- [X] **Each plant: thumbnail, name, price** – 6 pts  
+- [X] **Increase button (adds 1, updates totals)** – 4 pts  
+- [X] **Decrease button (removes 1, updates totals)** – 4 pts  
+- [X] **Delete button (removes item)** – 2 pts  
+- [X] **Checkout button with “Coming Soon” text** – 1 pt  
+- [X] **Continue Shopping button (back to product page)** – 2 pts  
