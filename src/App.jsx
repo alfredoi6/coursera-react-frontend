@@ -15,25 +15,22 @@ function App() {
   return (
 
     <>
-    <Header />
+    
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/products" element={
           <>
+            <Header />
             <ProductListingPage />
           </>
           
           } />
         <Route path="/cart" element={
           <>  
+            <Header />
             <ShoppingCartPage />
           </>
           } />
-        <Route path="/checkout" element={
-          <>
-            <CheckoutPage />
-          </>
-        } />
       </Routes>
     </>
     

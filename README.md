@@ -16,8 +16,8 @@
 - [X] **Add to Cart button (per plant)** – 6 pts  
 
 ## Header – 7 points
-- [ ] **Header on product/cart pages** – 2 pts  
-- [ ] **Cart icon with total items displayed** – 3 pts  
+- [X] **Header on product/cart pages** – 2 pts  
+- [X] **Cart icon with total items displayed** – 3 pts  
 - [X] **Navigation between pages** – 2 pts  
 
 ## Shopping Cart Page – 23 points
