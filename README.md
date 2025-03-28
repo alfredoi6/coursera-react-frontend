@@ -1,25 +1,19 @@
 # React/Redux Houseplant eCommerce App – Peer Review
 
 ## GitHub – 6 points
-- [ ] **Public GitHub repo URL provided** – 2 pts  
-- [ ] **Redux-related files and code** – 4 pts  
-  - `store.js`
-  - `slices/cartSlice.js` or similar
-  - Usage of `useDispatch` and `useSelector`
-
+- [x] **Public GitHub repo URL provided** – 2 pts  
+- [X] **Redux-related files and code** – 4 pts  
+  
 ## Landing Page – 5 points
-- [ ] **Background image** – 1 pt  
-- [ ] **Company name displayed** – 1 pt  
-- [ ] **Paragraph about the company** – 1 pt  
-- [ ] **“Get Started” button links to product listing page** – 2 pts  
+- [X] **Background image** – 1 pt  
+- [X] **Company name displayed** – 1 pt  
+- [X] **Paragraph about the company** – 1 pt  
+- [X] **“Get Started” button links to product listing page** – 2 pts  
 
 ## Product Listing Page – 9 points
 - [ ] **6 unique houseplants: thumbnail, name, price** – 2 pts  
 - [ ] **Grouped into 3+ categories** – 1 pt  
 - [ ] **Add to Cart button (per plant)** – 6 pts  
-  - Increments cart icon count  
-  - Button disables after click  
-  - Item added to cart
 
 ## Header – 7 points
 - [ ] **Header on product/cart pages** – 2 pts  
