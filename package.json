@@ -2,7 +2,7 @@
   "name": "react-ecommer-plantshop",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://alfredoi6.github.io/coursera-react-frontend-plantshop",
+  "homepage": "https://alfredoi6.github.io/coursera-react-frontend",
   "type": "module",
   "scripts": {
     "dev": "vite",
