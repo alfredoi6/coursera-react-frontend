@@ -3,7 +3,7 @@ import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import LandingPage from './pages/LandingPage';
-import ProductListPage from './components/ProductList';
+import ProductListingPage from './pages/ProductListingPage';
 import Header from './components/Header';
 import ShoppingCartPage from './components/Cart';
 import CheckoutPage from './components/Checkout'; 
@@ -20,7 +20,7 @@ function App() {
         <Route path="/" element={<LandingPage />} />
         <Route path="/products" element={
           <>
-            <ProductListPage />
+            <ProductListingPage />
           </>
           
           } />

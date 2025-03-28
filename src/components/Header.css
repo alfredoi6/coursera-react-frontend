@@ -1,3 +1,4 @@
+/* Floating header */
 .header {
     position: fixed;
     top: 0;
@@ -9,6 +10,7 @@
     border-bottom: 1px solid #ddd;
   }
   
+  /* Header layout */
   .header-content {
     display: flex;
     align-items: center;
@@ -17,12 +19,27 @@
     margin: 0 auto;
   }
   
-  .brand {
-    font-family: 'Georgia', serif;
-    font-size: 1.8rem;
-    color: #333;
+  /* Brand link should NOT look like a link */
+  .brand-link {
+    text-decoration: none;
+    
   }
   
+  /* Brand styling */
+  .brand {
+    
+    font-size: 2rem;
+    font-weight: bold;
+    color: #222;
+    margin: 0;
+  }
+  
+  /* Brand stays black, no hover effect */
+  .brand-link:hover .brand {
+    color: #222;
+  }
+  
+  /* Navigation links */
   nav a {
     margin-left: 20px;
     text-decoration: none;

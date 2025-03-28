@@ -11,14 +11,14 @@
 - [X] **“Get Started” button links to product listing page** – 2 pts  
 
 ## Product Listing Page – 9 points
-- [ ] **6 unique houseplants: thumbnail, name, price** – 2 pts  
-- [ ] **Grouped into 3+ categories** – 1 pt  
-- [ ] **Add to Cart button (per plant)** – 6 pts  
+- [X] **6 unique houseplants: thumbnail, name, price** – 2 pts  
+- [X] **Grouped into 3+ categories** – 1 pt  
+- [X] **Add to Cart button (per plant)** – 6 pts  
 
 ## Header – 7 points
 - [ ] **Header on product/cart pages** – 2 pts  
 - [ ] **Cart icon with total items displayed** – 3 pts  
-- [ ] **Navigation between pages** – 2 pts  
+- [X] **Navigation between pages** – 2 pts  
 
 ## Shopping Cart Page – 23 points
 - [ ] **Total number of plants in cart** – 2 pts  

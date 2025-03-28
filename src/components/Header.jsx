@@ -6,9 +6,9 @@ const Header = () => {
   return (
     <header className="header">
       <div className="header-content">
-        <h1 className="brand">
-            <Link to="/">Orange County Plant Emporium</Link>
-        </h1>
+        <Link to="/" className="brand-link">
+          <h1 className="brand">Orange County Plant Emporium</h1>
+        </Link>
         <nav>
           <Link to="/products">Shop</Link>
           <Link to="/cart">Cart 🛒</Link>
